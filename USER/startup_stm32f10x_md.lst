@@ -463,10 +463,13 @@ ARM Macro Assembler    Page 8
   305 0000001C                 END
               00000000 
               00000000 
-Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork -o..\OUTPUT\start
-up_stm32f10x_md.o -ID:\Keil4\ARM\INC -ID:\Keil4\ARM\INC\ST\STM32F10x --predefin
-e="__MICROLIB SETA 1" --list=.\startup_stm32f10x_md.lst ..\CORE\startup_stm32f1
-0x_md.s
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
+ork --depend=..\output\startup_stm32f10x_md.d -o..\output\startup_stm32f10x_md.
+o -I.\RTE\_Target_1 -ID:\KEIL_PACKAGE\ARM\CMSIS\5.7.0\CMSIS\Core\Include -ID:\K
+EIL_PACKAGE\Keil\STM32F1xx_DFP\1.0.5\Device\Include --predefine="__MICROLIB SET
+A 1" --predefine="__UVISION_VERSION SETA 531" --predefine="_RTE_ SETA 1" --pred
+efine="STM32F10X_MD SETA 1" --predefine="_RTE_ SETA 1" --list=.\startup_stm32f1
+0x_md.lst ..\CORE\startup_stm32f10x_md.s
 
 
 
@@ -1173,4 +1176,4 @@ Symbol: __main
       At line 135 in file ..\CORE\startup_stm32f10x_md.s
 Comment: __main used once
 2 symbols
-392 symbols in table
+406 symbols in table

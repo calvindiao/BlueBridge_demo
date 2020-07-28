@@ -6,7 +6,6 @@ u32 TimingDelay = 0;
 
 //function	  declare
 void Delay_Ms(u32 nTime);
-void key_scan(void);
 
 //code
 int main()
@@ -32,12 +31,14 @@ int main()
     adc_init();
 //	pwm_tim2_init();
 //	pwm_tim3_init();
-	pwm_Init();
-	Timer2_PwmIn();
+//	pwm_Init();
+//	Timer2_PwmIn();
+    
+    
+
 	while (1)
 	{
-			 
-		printf("!!");
+    
 	}
 }
 
