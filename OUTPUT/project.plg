@@ -1,0 +1,448 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\bluebridge\比赛专用秘密武器\project\USER\project.uvproj
+Project File Date:  07/04/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+compiling adc.c...
+compiling i2c.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling pwm.c...
+compiling rtc.c...
+compiling tim.c...
+compiling uart.c...
+compiling buzz.c...
+linking...
+Program Size: Code=16798 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.41 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.52 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.41 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.41 KByte/s
+Programming Done.
+Build target 'Target 1'
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.52 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.41 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.52 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16802 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.52 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+compiling adc.c...
+compiling i2c.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling pwm.c...
+compiling rtc.c...
+compiling tim.c...
+compiling uart.c...
+compiling buzz.c...
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.40 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.51 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16974 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.51 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16974 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.51 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16974 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.51 KByte/s
+Programming Done.
+compiling pwm.c...
+..\HARDWARE\pwm.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.51 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.40 KByte/s
+Programming Done.
+Build target 'Target 1'
+linking...
+Program Size: Code=16978 RO-data=4830 RW-data=84 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling pwm.c...
+..\HARDWARE\pwm.c(309): error:  #247: function "TIM2_IRQHandler" has already been defined
+..\HARDWARE\pwm.c:   void TIM2_IRQHandler(void)
+..\HARDWARE\pwm.c:        ^
+..\HARDWARE\pwm.c(316): error:  #20: identifier "IC2Value" is undefined
+..\HARDWARE\pwm.c:              IC2Value = TIM_GetCapture2(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(319): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(322): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1 = 2000000/temp; //此处的2_000_000 与上面的72M/36相关 
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(329): error:  #20: identifier "IC3Value" is undefined
+..\HARDWARE\pwm.c:              IC3Value = TIM_GetCapture3(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(332): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(336): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2 = 2000000/temp;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c: ..\HARDWARE\pwm.c: 0 warnings, 7 errors
+Target not created
+Build target 'Target 1'
+compiling pwm.c...
+..\HARDWARE\pwm.c(280): error:  #20: identifier "IC2Value" is undefined
+..\HARDWARE\pwm.c:              IC2Value = TIM_GetCapture2(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(283): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(286): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1 = 2000000/temp; //此处的2_000_000 与上面的72M/36相关 
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(293): error:  #20: identifier "IC3Value" is undefined
+..\HARDWARE\pwm.c:              IC3Value = TIM_GetCapture3(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(296): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(300): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2 = 2000000/temp;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c: ..\HARDWARE\pwm.c: 0 warnings, 6 errors
+Target not created
+Build target 'Target 1'
+compiling main.c...
+compiling adc.c...
+compiling i2c.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling pwm.c...
+..\HARDWARE\pwm.c(280): error:  #20: identifier "IC2Value" is undefined
+..\HARDWARE\pwm.c:              IC2Value = TIM_GetCapture2(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(283): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(286): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1 = 2000000/temp; //此处的2_000_000 与上面的72M/36相关 
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(293): error:  #20: identifier "IC3Value" is undefined
+..\HARDWARE\pwm.c:              IC3Value = TIM_GetCapture3(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(296): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(300): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2 = 2000000/temp;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c: ..\HARDWARE\pwm.c: 0 warnings, 6 errors
+compiling rtc.c...
+compiling tim.c...
+compiling uart.c...
+compiling buzz.c...
+Target not created
+Build target 'Target 1'
+compiling pwm.c...
+..\HARDWARE\pwm.c(283): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(286): error:  #20: identifier "Frequency_1" is undefined
+..\HARDWARE\pwm.c:                      Frequency_1 = 2000000/temp; //此处的2_000_000 与上面的72M/36相关 
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(293): error:  #20: identifier "IC3Value" is undefined
+..\HARDWARE\pwm.c:              IC3Value = TIM_GetCapture3(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c(296): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2=0;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c(300): error:  #20: identifier "Frequency_2" is undefined
+..\HARDWARE\pwm.c:                      Frequency_2 = 2000000/temp;
+..\HARDWARE\pwm.c:                      ^
+..\HARDWARE\pwm.c: ..\HARDWARE\pwm.c: 0 warnings, 5 errors
+Target not created
+Build target 'Target 1'
+compiling pwm.c...
+..\HARDWARE\pwm.c(294): error:  #20: identifier "IC3Value" is undefined
+..\HARDWARE\pwm.c:              IC3Value = TIM_GetCapture3(TIM2);
+..\HARDWARE\pwm.c:              ^
+..\HARDWARE\pwm.c: ..\HARDWARE\pwm.c: 0 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by adc.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by i2c.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by key.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by lcd.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by led.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by pwm.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by rtc.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by tim.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by uart.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC1Value_temp multiply defined (by buzz.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by adc.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by i2c.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by key.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by lcd.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by led.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by pwm.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by rtc.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by tim.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by uart.o and main.o).
+..\OUTPUT\project.axf: Error: L6200E: Symbol IC2Value_temp multiply defined (by buzz.o and main.o).
+..\OUTPUT\project.axf: Not enough information to list image symbols.
+..\OUTPUT\project.axf: Not enough information to list the image map.
+..\OUTPUT\project.axf: Finished: 2 information, 0 warning and 20 error messages.
+Target not created
+Build target 'Target 1'
+compiling main.c...
+compiling adc.c...
+compiling i2c.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling pwm.c...
+compiling rtc.c...
+compiling tim.c...
+compiling uart.c...
+compiling buzz.c...
+linking...
+Program Size: Code=16998 RO-data=4830 RW-data=104 ZI-data=1056  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(36): warning:  #223-D: function "Timer2_PwmIn" declared implicitly
+main.c:         Timer2_PwmIn();
+main.c:         ^
+main.c: main.c: 1 warning, 0 errors
+linking...
+Program Size: Code=17002 RO-data=4830 RW-data=104 ZI-data=1056  
+"..\OUTPUT\project.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+compiling adc.c...
+compiling i2c.c...
+compiling key.c...
+compiling lcd.c...
+compiling led.c...
+compiling pwm.c...
+compiling rtc.c...
+compiling tim.c...
+compiling uart.c...
+compiling buzz.c...
+linking...
+Program Size: Code=17002 RO-data=4830 RW-data=104 ZI-data=1056  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=17054 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.57 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=17054 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.45 KByte/s
+Programming Done.
+Build target 'Target 1'
+linking...
+Program Size: Code=17054 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.45 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17066 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.47 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17066 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17058 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.46 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17062 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.46 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17062 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.46 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=17066 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=17026 RO-data=4830 RW-data=108 ZI-data=1060  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16946 RO-data=4830 RW-data=104 ZI-data=1056  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.39 KByte/s
+Programming Done.
+Build target 'Target 1'
+compiling pwm.c...
+linking...
+Program Size: Code=16942 RO-data=4830 RW-data=104 ZI-data=1056  
+"..\OUTPUT\project.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\OUTPUT\\project.AXF" 
+Erasing Done.
+Program Speed: 12.50 KByte/s
+Programming Done.
