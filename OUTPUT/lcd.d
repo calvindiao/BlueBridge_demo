@@ -43,4 +43,8 @@
 ..\output\lcd.o: ..\HARDWARE\pwm.h
 ..\output\lcd.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\lcd.o: ..\HARDWARE\buzz.h
+..\output\lcd.o: ..\HARDWARE\exkey.h
+..\output\lcd.o: ..\HARDWARE\display.h
+..\output\lcd.o: ..\HARDWARE\dht11.h
+..\output\lcd.o: ..\HARDWARE\ds18b20.h
 ..\output\lcd.o: ..\HARDWARE\fonts.h

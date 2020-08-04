@@ -40,7 +40,7 @@ void adc_init()
 		;
 }
 
-u32 get_adc()		 //获取ADC的数值
+uint16_t get_adc()		 //获取ADC的数值
 {
 	ADC_SoftwareStartConvCmd(ADC1, ENABLE);
 	while (!ADC_GetFlagStatus(ADC1, ADC_FLAG_EOC))

@@ -43,3 +43,7 @@
 ..\output\led.o: ..\HARDWARE\pwm.h
 ..\output\led.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\led.o: ..\HARDWARE\buzz.h
+..\output\led.o: ..\HARDWARE\exkey.h
+..\output\led.o: ..\HARDWARE\display.h
+..\output\led.o: ..\HARDWARE\dht11.h
+..\output\led.o: ..\HARDWARE\ds18b20.h

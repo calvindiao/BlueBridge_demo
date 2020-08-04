@@ -43,3 +43,7 @@
 ..\output\i2c.o: ..\HARDWARE\pwm.h
 ..\output\i2c.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\i2c.o: ..\HARDWARE\buzz.h
+..\output\i2c.o: ..\HARDWARE\exkey.h
+..\output\i2c.o: ..\HARDWARE\display.h
+..\output\i2c.o: ..\HARDWARE\dht11.h
+..\output\i2c.o: ..\HARDWARE\ds18b20.h

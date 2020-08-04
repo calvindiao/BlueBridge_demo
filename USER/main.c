@@ -3,6 +3,16 @@
 
 //variable
 u32 TimingDelay = 0;
+u16 adc_value;
+u8  test_variable;
+
+
+
+
+extern u8 display[30];
+
+
+
 
 //function	  declare
 void Delay_Ms(u32 nTime);
@@ -29,16 +39,20 @@ int main()
     tim4_Init(999,71);		//1ms
 
     adc_init();
+    ex_key_init();
 //	pwm_tim2_init();
 //	pwm_tim3_init();
 //	pwm_Init();
 //	Timer2_PwmIn();
     
-    
+
 
 	while (1)
 	{
-    
+        test_variable=ex_key_scan();
+        sprintf((char*)display,"%d",test_variable);
+        LCD_DisplayStringLine(Line0,display);
+        Delay_Ms(50);
 	}
 }
 

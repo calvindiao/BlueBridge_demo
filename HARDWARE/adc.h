@@ -17,7 +17,7 @@
 
 //function
 void adc_init(void);
-u32 get_adc(void);			//获取adc的值	   0--4095
+uint16_t get_adc(void);			//获取adc的值	   0--4095
 
 
 

@@ -598,6 +598,26 @@
               <FileType>1</FileType>
               <FilePath>..\HARDWARE\buzz.c</FilePath>
             </File>
+            <File>
+              <FileName>dht11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\dht11.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds18b20.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\ds18b20.c</FilePath>
+            </File>
+            <File>
+              <FileName>display.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\display.c</FilePath>
+            </File>
+            <File>
+              <FileName>exkey.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\HARDWARE\exkey.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

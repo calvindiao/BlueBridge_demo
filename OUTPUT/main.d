@@ -42,3 +42,7 @@
 ..\output\main.o: ..\HARDWARE\pwm.h
 ..\output\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\main.o: ..\HARDWARE\buzz.h
+..\output\main.o: ..\HARDWARE\exkey.h
+..\output\main.o: ..\HARDWARE\display.h
+..\output\main.o: ..\HARDWARE\dht11.h
+..\output\main.o: ..\HARDWARE\ds18b20.h
