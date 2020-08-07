@@ -4,7 +4,7 @@
 //variable
 u32 TimingDelay = 0;
 u16 adc_value;
-u8  test_variable;
+double  test_variable;
 
 
 
@@ -49,8 +49,8 @@ int main()
 
 	while (1)
 	{
-        test_variable=ex_key_scan();
-        sprintf((char*)display,"%d",test_variable);
+        test_variable=ds18b20read();
+        sprintf((char*)display,"%e",test_variable);
         LCD_DisplayStringLine(Line0,display);
         Delay_Ms(50);
 	}

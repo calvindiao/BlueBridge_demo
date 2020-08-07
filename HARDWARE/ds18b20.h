@@ -14,6 +14,10 @@
 
 
 void ds18b20_init_x(void);
+double ds18b20read(void);
+
+
+
 
 #endif
 

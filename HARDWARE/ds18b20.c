@@ -4,7 +4,8 @@
 
 void delay(unsigned int n)
 {
-	while(n--);
+	while(n--)
+       ;
 }
 
 void ds18b20_init_x(void)
@@ -105,3 +106,26 @@ uint8_t ow_byte_rd( void )
 {
    	return ow_byte_wr( 0xFF ); 
 }
+
+double ds18b20read(void)
+{
+    u8 value[2];
+    double temp;
+    int i;
+    ow_reset();
+    ow_byte_wr(OW_SKIP_ROM);
+    ow_byte_wr(DS18B20_CONVERT);   
+    delay_us(720000);
+    
+    ow_reset();
+    ow_byte_wr(OW_SKIP_ROM);
+    ow_byte_wr(DS18B20_READ);   
+
+    for(i=0;i<2;i++)
+    {
+        value[i]=ow_byte_rd();
+    }
+    temp=(float)(((u16)(value[1]<<8)+value[0]))/16;
+    return temp;
+}
+
