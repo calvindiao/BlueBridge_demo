@@ -89,4 +89,21 @@ unsigned int dht11_read(void)
     else return val>>8; 
 
 }
+void DisplayDht11(void)
+{
+    u8 display[30];
+    unsigned int value=dht11_read();
+    
 
+    
+    sprintf((char*)display,"M:%d",value>>24);
+    LCD_DisplayStringLine(Line0,display);
+   
+    sprintf((char*)display,"T:%d",(value&0x0000ff00)>>8);
+    LCD_DisplayStringLine(Line1,display);
+    
+    sprintf((char*)display,"v:%d",value);
+    LCD_DisplayStringLine(Line2,display);
+
+   
+}

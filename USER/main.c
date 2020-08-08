@@ -39,7 +39,9 @@ int main()
     tim4_Init(999,71);		//1ms
 
     adc_init();
-    ex_key_init();
+    dht11_init();
+//    ex_key_init();
+
 //	pwm_tim2_init();
 //	pwm_tim3_init();
 //	pwm_Init();
@@ -49,10 +51,12 @@ int main()
 
 	while (1)
 	{
-        test_variable=ds18b20read();
-        sprintf((char*)display,"%e",test_variable);
-        LCD_DisplayStringLine(Line0,display);
-        Delay_Ms(50);
+//        test_variable=ds18b20read();
+//        sprintf((char*)display,"%.2G",test_variable);
+//        LCD_DisplayStringLine(Line0,display);
+
+        DisplayDht11();
+        Delay_Ms(2000);
 	}
 }
 
