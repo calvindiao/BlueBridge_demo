@@ -3,7 +3,7 @@
 ..\output\dht11.o: ..\USER\headfile.h
 ..\output\dht11.o: ..\USER\stm32f10x.h
 ..\output\dht11.o: ..\CORE\core_cm3.h
-..\output\dht11.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\dht11.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\dht11.o: ..\USER\system_stm32f10x.h
 ..\output\dht11.o: ..\USER\stm32f10x_conf.h
 ..\output\dht11.o: ..\FWLIB\inc\stm32f10x_adc.h
@@ -35,15 +35,16 @@
 ..\output\dht11.o: ..\HARDWARE\led.h
 ..\output\dht11.o: ..\HARDWARE\key.h
 ..\output\dht11.o: ..\HARDWARE\uart.h
-..\output\dht11.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\dht11.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\dht11.o: ..\HARDWARE\i2c.h
 ..\output\dht11.o: ..\HARDWARE\rtc.h
 ..\output\dht11.o: ..\HARDWARE\tim.h
 ..\output\dht11.o: ..\HARDWARE\adc.h
 ..\output\dht11.o: ..\HARDWARE\pwm.h
-..\output\dht11.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\output\dht11.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\dht11.o: ..\HARDWARE\buzz.h
 ..\output\dht11.o: ..\HARDWARE\exkey.h
 ..\output\dht11.o: ..\HARDWARE\display.h
 ..\output\dht11.o: ..\HARDWARE\dht11.h
 ..\output\dht11.o: ..\HARDWARE\ds18b20.h
+..\output\dht11.o: ..\HARDWARE\smg.h

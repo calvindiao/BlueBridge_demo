@@ -3,7 +3,7 @@
 ..\output\ds18b20.o: ..\USER\headfile.h
 ..\output\ds18b20.o: ..\USER\stm32f10x.h
 ..\output\ds18b20.o: ..\CORE\core_cm3.h
-..\output\ds18b20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\ds18b20.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\ds18b20.o: ..\USER\system_stm32f10x.h
 ..\output\ds18b20.o: ..\USER\stm32f10x_conf.h
 ..\output\ds18b20.o: ..\FWLIB\inc\stm32f10x_adc.h
@@ -35,15 +35,16 @@
 ..\output\ds18b20.o: ..\HARDWARE\led.h
 ..\output\ds18b20.o: ..\HARDWARE\key.h
 ..\output\ds18b20.o: ..\HARDWARE\uart.h
-..\output\ds18b20.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\ds18b20.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\ds18b20.o: ..\HARDWARE\i2c.h
 ..\output\ds18b20.o: ..\HARDWARE\rtc.h
 ..\output\ds18b20.o: ..\HARDWARE\tim.h
 ..\output\ds18b20.o: ..\HARDWARE\adc.h
 ..\output\ds18b20.o: ..\HARDWARE\pwm.h
-..\output\ds18b20.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\output\ds18b20.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\ds18b20.o: ..\HARDWARE\buzz.h
 ..\output\ds18b20.o: ..\HARDWARE\exkey.h
 ..\output\ds18b20.o: ..\HARDWARE\display.h
 ..\output\ds18b20.o: ..\HARDWARE\dht11.h
 ..\output\ds18b20.o: ..\HARDWARE\ds18b20.h
+..\output\ds18b20.o: ..\HARDWARE\smg.h

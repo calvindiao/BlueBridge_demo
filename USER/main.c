@@ -36,10 +36,10 @@ int main()
 	uart_init();
 	i2c_init();
 	rtc_init();
-    tim4_Init(999,71);		//1ms
+  tim4_Init(999,71);		//1ms
 
-    adc_init();
-    dht11_init();
+  adc_init();
+  dht11_init();
 //    ex_key_init();
 
 //	pwm_tim2_init();
@@ -48,15 +48,12 @@ int main()
 //	Timer2_PwmIn();
     
 
-
+	led_state=0xfe;
 	while (1)
 	{
-//        test_variable=ds18b20read();
-//        sprintf((char*)display,"%.2G",test_variable);
-//        LCD_DisplayStringLine(Line0,display);
+		key_scan();
+	
 
-        DisplayDht11();
-        Delay_Ms(2000);
 	}
 }
 

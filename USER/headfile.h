@@ -18,6 +18,6 @@
 #include <display.h>
 #include <dht11.h>
 #include <ds18b20.h>
-
+#include <smg.h>
 
 #endif

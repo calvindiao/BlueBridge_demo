@@ -118,28 +118,28 @@ void key_scan()
 	switch (key_flag)
 	{
 	case 1:
-		Delay_Ms(10);
+		Delay_Ms(5);
 		if (Key1 == 0)
 		{
 			LCD_Clear(White);		//按键1要执行的操作放这里
 		}
 		break;
 	case 2:
-		Delay_Ms(10);
+		Delay_Ms(5);
 		if (Key2 == 0)
 		{
 			LCD_Clear(Blue);	   	//按键2要执行的操作放这里
 		}
 		break;
 	case 3:
-		Delay_Ms(10);
+		Delay_Ms(5);
 		if (Key3 == 0)
 		{
 			LCD_Clear(Red);		  	//按键3要执行的操作放这里
 		}
 		break;
 	case 4:
-		Delay_Ms(10);
+		Delay_Ms(5);
 		if (Key4 == 0)
 		{
 			LCD_Clear(Yellow);	  	//按键4要执行的操作放这里
